@@ -1,0 +1,7 @@
+aiogram
+lxml
+pymongo
+python-docx
+apscheduler
+BeautifulSoup4
+requests
