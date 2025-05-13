@@ -1,4 +1,4 @@
-TOKEN = '6034411528:AAFxni0NF8ASaqVucRDsIZ8pMq0UOv_yxkg'
+TOKEN = ''
 USER = ['admin_parse', 'Wi5DVwBZB3UPcjCA']
 DB = 'site_parsing'
 available_sites = ['Сбер аст', #'https://utp.sberbank-ast.ru'),
